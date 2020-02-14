@@ -1,4 +1,4 @@
-= cdk-rewrite-mono-imports =
+# cdk-rewrite-mono-imports
 
 A hacky tool to mass rewrite a bunch of TS files from the old style imports
 to the new style imports.
